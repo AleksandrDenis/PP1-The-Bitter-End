@@ -40,7 +40,7 @@ header {
 }
 
 /* Hide the checkbox */
-#menu-toogle{
+#menu-toggle{
     display: none;
 }
 
@@ -53,6 +53,29 @@ header {
     z-index: 2;
     cursor: pointer;
 }
+
+/* Style Navigation menu */
+nav {
+    position: fixed;
+    left: -250px;
+    width: 250px;
+    height: 100%;
+    background-color: antiquewhite;
+    z-index: 1;
+}
+
+/* Style Navigation menu links */
+nav ul li a {
+    display: block;
+    padding: 15px;
+}
+
+/* Show the navigation menu when checkbox is checked */
+#menu-toggle:checked + nav {
+    left: 0;
+  }
+
+
 
 
 /* Main */
