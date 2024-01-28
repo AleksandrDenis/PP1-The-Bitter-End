@@ -154,8 +154,8 @@ main {
     padding-top: 80px;
 }
 
-/* Drinks section  center images and the text horizontally*/
-#drinks {
+/* Drinks and events section  center images */
+#drinks, #events {
     background-color: rgb(240, 240, 248);
     text-align: center;
     display: flex;
