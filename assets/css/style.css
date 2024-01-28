@@ -1,4 +1,10 @@
 /* This is the main stylesheet for the site */
+/* Override browser defaults */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 body {
     background-color: antiquewhite;
 }
