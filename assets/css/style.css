@@ -39,6 +39,11 @@ header {
     list-style: none;
 }
 
+/* Hide the checkbox */
+#menu-tugle {
+    display: none;
+}
+
 /*Style bars menu icon */
 .icon-bars {
     display:block;
