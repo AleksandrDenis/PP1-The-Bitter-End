@@ -28,6 +28,17 @@ header {
     background-color: rgb(43, 50, 24, 0.8);
 }
 
+/* Navigation menu */
+#top-nav a {
+    text-decoration: none; /* Remove underline from links */
+}
+
+#menu {
+    font-size: 110%;
+    letter-spacing: 2px;
+    list-style: none;
+}
+
 /* Main */
 main {
     background-color: lightblue;
