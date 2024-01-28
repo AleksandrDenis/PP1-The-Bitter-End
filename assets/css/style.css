@@ -12,6 +12,9 @@
 /* Set global styles */
 body {
     background-color: antiquewhite;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
     /* Generic font for the site */
     font-family: 'Raleway', sans-serif;
     font-optical-sizing: auto;
@@ -28,9 +31,12 @@ header {
 /* Main */
 main {
     background-color: lightblue;
-}
+    /* Make main take up all available space and push footer to bottom */
+    flex: 1 0 auto;
+    }
 
 /* Footer */
 footer {
     background-color: rgb(43, 50, 24, 0.8);
+    
 }
