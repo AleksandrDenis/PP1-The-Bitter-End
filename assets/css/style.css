@@ -116,3 +116,36 @@ footer {
     background-color: rgb(43, 50, 24, 0.8);
     
 }
+
+/* Media queries for responsive design */
+/* For tablets and larger screens 768px and up */
+@media (min-width: 768px) {
+    /* Header and contetnt to be centered */
+    header {
+        display: block;
+        text-align: center;
+        justify-content: space-between;
+        align-items: center;
+        padding: 0 2rem;
+    }
+    
+    /* Logo */
+    #logo {
+        font-size: 250%;
+        
+    }
+
+    /* Navigation menu */
+    nav {
+        position: static;
+        width: auto;
+        height: auto;
+    }
+
+    /* Navigation menu links */
+    nav ul {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+}
