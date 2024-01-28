@@ -163,6 +163,10 @@ main {
     justify-content: center;
     align-items: center;
     }
+    
+    .drink-container > h2, h5 , p {
+        padding: 0.5rem;
+    }
 
     /* Style images of the page make them round */
     img {
@@ -172,7 +176,8 @@ main {
         max-height: 300px;
         max-width: 300px;        
     }
-    
+
+
 
 /* Events section */
 #events {
