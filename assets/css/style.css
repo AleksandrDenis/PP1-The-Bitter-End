@@ -132,8 +132,16 @@ main {
 
 /* Footer */
 footer {
-    background-color: rgb(43, 50, 24, 0.8);
-    
+    background-color: rgb(43, 50, 24, 0.8);    
+}
+
+/* style for footer links */
+#contact-container div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0.5rem;
 }
 
 /* Media queries for responsive design */
