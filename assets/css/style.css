@@ -279,6 +279,15 @@ footer a {
         font-size: 200%;
     }
 
+    /* Drinks section */
+    #drink-container {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        align-items: center;
+        height: 600px;
+    }
+
     /*Footer */
     /* Display footer links in a row */
     #contact-container {
