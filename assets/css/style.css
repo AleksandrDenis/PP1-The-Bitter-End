@@ -70,6 +70,15 @@ nav ul li a {
     padding: 15px;
 }
 
+/* Style the active link */
+nav ul li a.active {
+    background-color: #ccc894;
+}
+
+#menu a:hover {
+    background-color: #ccc89465;
+}
+
 /* Show the navigation menu when checkbox is checked */
 #menu-toggle:checked + nav {
     left: 0;
