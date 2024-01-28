@@ -288,6 +288,11 @@ footer a {
         align-items: center;
         height: 600px;
     }
+    
+    .drink-text, .event-text {
+        width: 50%;
+        padding: 0 2rem;
+    }
 
     /*Footer */
     /* Display footer links in a row */
