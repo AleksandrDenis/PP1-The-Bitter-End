@@ -116,7 +116,15 @@ main {
 
     /* Hero section */
     #hero {
-        background-color: rosybrown;
+        width: 100%;
+        height: 100vh;
+    }
+
+    /* Style hero video background */
+    #hero-video {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
     }
 
     /* Drinks section */
