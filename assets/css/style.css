@@ -181,7 +181,7 @@ main {
 
 /* Events section */
 #events {
-    background-color: saddlebrown;
+    background-color: #ccc894;
 }
 
 
@@ -279,8 +279,8 @@ footer a {
         font-size: 200%;
     }
 
-    /* Drinks section */
-    #drink-container {
+    /* Drinks and event section */
+    #drink-container, #event-container {
         display: flex;
         flex-direction: row;
         justify-content: space-evenly;
