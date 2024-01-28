@@ -39,6 +39,17 @@ header {
     list-style: none;
 }
 
+/*Style bars menu icon */
+.icon-bars {
+    display:block;
+    position: absolute;
+    right: 20px;
+    top: 0;
+    z-index: 2;
+    cursor: pointer;
+}
+
+
 /* Main */
 main {
     background-color: lightblue;
