@@ -35,6 +35,22 @@ main {
     flex: 1 0 auto;
     }
 
+    /* Hero section */
+    #hero {
+        background-color: rosybrown;
+    }
+
+    /* Drinks section */
+    #drinks {
+        background-color: salmon;
+    }
+
+    /* Events section */
+    #events {
+        background-color: saddlebrown;
+    }
+
+
 /* Footer */
 footer {
     background-color: rgb(43, 50, 24, 0.8);
