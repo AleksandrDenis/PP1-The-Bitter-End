@@ -22,18 +22,32 @@ body {
     line-height: 1.5;
     color: #242323;
 }
+/* Set styles for headings */
+.heading {
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
 
-/* Header */
+/* Header and logo */
 header {
     background-color: rgb(43, 50, 24, 0.8);
     width: 100%;
     z-index: 1;
 }
+#logo {
+    color: #fff;
+    padding: 0 10px;
+}
 
 /* Navigation menu */
 #top-nav a {
-    text-decoration: none; /* Remove underline from links */
+    text-decoration: none; /* Remove underline from links */    
 }
+li > a {
+    color: #242323;
+}
+
 
 #menu {
     font-size: 110%;
@@ -55,6 +69,7 @@ header {
     z-index: 2;
     font-size: 25px;
     cursor: pointer;
+    color: #fff;
 }
 
 /* Style Navigation menu */
@@ -154,7 +169,7 @@ footer {
     }
 
     nav ul li a {
-        padding: 0;;
+        padding: 0;
         margin-left: 2rem;
     }
 
