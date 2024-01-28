@@ -214,6 +214,16 @@ footer a {
     #menu > li {
         margin-bottom: 0.5rem;
       }
+
+      /*Footer */
+      /* Display footer links in a row */
+      #contact-container {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        padding: 4rem;
+        font-size: 150%;
+      }
     
     
 }
