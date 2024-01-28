@@ -18,7 +18,19 @@ body {
     font-weight: 300;
     line-height: 1.5;
     color: #242323;
+}
 
+/* Header */
+header {
+    background-color: rgb(43, 50, 24, 0.8);
+}
 
+/* Main */
+main {
+    background-color: lightblue;
+}
 
+/* Footer */
+footer {
+    background-color: rgb(43, 50, 24, 0.8);
 }
