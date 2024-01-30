@@ -229,6 +229,11 @@ footer a {
     text-align: center;
 }
 
+#menu-container h1 {
+    text-decoration-line: underline;
+    font-size: 200%;
+}
+
 /* Media queries for responsive design */
 /* For tablets and larger screens 768px and up */
 @media (min-width: 768px) {
