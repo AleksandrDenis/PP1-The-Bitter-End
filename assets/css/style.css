@@ -214,6 +214,17 @@ footer a {
     color: #fff;
 }
 
+/* Style for drink-menu page */
+
+#menu-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem 1rem;
+
+}
+
 /* Media queries for responsive design */
 /* For tablets and larger screens 768px and up */
 @media (min-width: 768px) {
