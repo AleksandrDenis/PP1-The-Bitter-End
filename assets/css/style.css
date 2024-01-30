@@ -225,6 +225,10 @@ footer a {
 
 }
 
+.menu-item {
+    text-align: center;
+}
+
 /* Media queries for responsive design */
 /* For tablets and larger screens 768px and up */
 @media (min-width: 768px) {
@@ -304,6 +308,11 @@ footer a {
     .drink-text, .event-text {
         width: 50%;
         padding: 0 2rem;
+    }
+
+    /* Styles for drink-menu page */
+    #menu-container {
+        padding-top: 110px;
     }
 
     /*Footer */
