@@ -330,7 +330,7 @@ footer a {
 
     /* Styles for drink-menu page */
     /* Push content down to make room for header */
-    #cocktail-menu {
+    #cocktail-menu, #about {
         padding-top: 45px;
         margin-top: 45px;
     }
