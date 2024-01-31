@@ -176,7 +176,7 @@ p {
 }
 
 /* Style images of the page make them round */
-img {
+.round-images {
     height: 90vw;
     width: 90vw;
     border-radius: 50%;
