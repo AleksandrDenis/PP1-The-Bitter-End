@@ -315,8 +315,9 @@ footer a {
     }
 
     /* Styles for drink-menu page */
-    #menu-container {
-        padding-top: 110px;
+    #cocktail-menu {
+        padding-top: 45px;
+        margin-top: 45px;
     }
 
     /*Footer */
