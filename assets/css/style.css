@@ -160,7 +160,7 @@ main {
 #drinks,
 #events,
 #cocktail-menu,
-#about-text {
+#about {
     background-color: rgb(240, 240, 248);
     text-align: center;
     display: flex;
@@ -237,6 +237,13 @@ footer a {
     margin: 20px 20px;
     max-width: 600px;
 }
+
+#about-text {
+    max-width: 800px;
+    padding:0 20px;
+
+}
+
 
 /* Media queries for responsive design */
 /* For tablets and larger screens 768px and up */
