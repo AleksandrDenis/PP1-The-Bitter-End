@@ -156,7 +156,7 @@ main {
     padding-top: 80px;
 }
 
-/* Drinks / events and drink-htmlpage sections to center containt */
+/* Drinks / events and drink-menu.html page sections to center containt */
 #drinks, #events, #cocktail-menu {
     background-color: rgb(240, 240, 248);
     text-align: center;
@@ -225,7 +225,7 @@ footer a {
     font-size: 200%;
 }
 
-/* Create border around cocktail menu */
+/* Create border around cocktail menu on drink-menu.html */
  #menu-container {
     border: 2px solid #242323;
     padding: 20px;
@@ -276,7 +276,7 @@ footer a {
     /* Style active link */
     nav ul li a.active {
         background-color: transparent;
-        border-bottom: 1px solid #242323;
+        border-bottom: 1px solid #fff;
     }
 
     #menu a:hover {
@@ -315,6 +315,7 @@ footer a {
     }
 
     /* Styles for drink-menu page */
+    /* Push content down to make room for header */
     #cocktail-menu {
         padding-top: 45px;
         margin-top: 45px;
