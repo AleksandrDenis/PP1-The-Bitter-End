@@ -215,7 +215,7 @@ footer a {
 }
 
 /* Style for drink-menu page */
-/*push content down to make room for header */
+/* Push content down to make room for header */
 #cocktail-menu {
     padding-top: 36px;
 }
@@ -224,6 +224,14 @@ footer a {
     text-decoration-line: underline;
     font-size: 200%;
 }
+
+/* Create border around cocktail menu */
+ #menu-container {
+    border: 2px solid #242323;
+    padding: 20px;
+    margin: 20px 20px;
+    max-width: 600px;
+ }
 
 /* Media queries for responsive design */
 /* For tablets and larger screens 768px and up */
