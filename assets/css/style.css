@@ -250,6 +250,10 @@ footer a {
     height: 200px;
 }
 
+#about h1, h2 {
+    text-decoration-line: underline;
+}
+
 
 /* Media queries for responsive design */
 /* For tablets and larger screens 768px and up */
