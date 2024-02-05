@@ -250,7 +250,7 @@ footer a {
     height: 200px;
 }
 
-#about h1, h2 {
+.about-heading {
     text-decoration-line: underline;
 }
 
