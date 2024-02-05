@@ -117,9 +117,12 @@ nav ul li a.active {
 
 /* Main */
 main {
-    background-color: lightblue;
-    /* Make main take up all available space and push footer to bottom */
+     /* Make main take up all available space and push footer to bottom */
     flex: 1 0 auto;
+    /* Enable flex properties for child elements */
+    display: flex;
+    flex-direction: column;
+
 }
 
 /* Hero section */
