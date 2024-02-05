@@ -303,6 +303,19 @@ textarea {
     border-color: #242323;
 }
 
+/* Style for confirmation message */
+
+#confirmation-message {
+    background-color: #8E9680;
+    color: #fff;
+    
+    
+    
+}
+    
+
+
+
 
 /* Media queries for responsive design */
 /* For tablets and larger screens 768px and up */
