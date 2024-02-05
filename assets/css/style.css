@@ -401,9 +401,16 @@ textarea {
 
     /* Contact.html page */
 #contact-form {
-    width: 50%;
-    padding-top: 60px;
-    margin-top: 60px;
+    background-position: center;
+    position: relative;
+}
+
+form {
+    max-width: 400px;
+    position: absolute;
+    left: 15%;
+    top: 150px;
+    padding: 0, 20px, 10px, 20px;
 }
 
     /*Footer */
