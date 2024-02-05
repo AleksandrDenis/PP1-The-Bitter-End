@@ -393,6 +393,13 @@ textarea {
         height: 100vh;
     }
 
+    /* Contact.html page */
+#contact-form {
+    width: 50%;
+    padding-top: 60px;
+    margin-top: 60px;
+}
+
     /*Footer */
     /* Display footer links in a row */
     #contact-container {
