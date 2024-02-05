@@ -244,6 +244,11 @@ footer a {
 
 }
 
+#about-image {
+    width: 100%;
+    height: 200px;
+}
+
 
 /* Media queries for responsive design */
 /* For tablets and larger screens 768px and up */
@@ -338,7 +343,7 @@ footer a {
     /* About.html page */
     #about-image {
         width: 100%;
-        height: 200px;
+        height: 100vh;
     }
 
     /*Footer */
