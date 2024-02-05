@@ -286,6 +286,16 @@ textarea {
     border-color: #242323;
 }
 
+/* Style submit button */
+#submit-button {
+    font-size: 100%;
+    padding: 10px 20px;
+    border-radius: 2px;
+    border: 1px solid #fff;
+    cursor: pointer;
+
+}
+
 
 /* Media queries for responsive design */
 /* For tablets and larger screens 768px and up */
