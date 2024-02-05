@@ -254,6 +254,22 @@ footer a {
     text-decoration-line: underline;
 }
 
+/* Contact.html page */
+/* Style contact form */
+#contact-form {
+    background-color: #8e9680;
+    color: #fff;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 32px 10px;
+    margin: 0 auto; 
+    ;
+
+}
+
 
 /* Media queries for responsive design */
 /* For tablets and larger screens 768px and up */
