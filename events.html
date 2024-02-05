@@ -47,9 +47,9 @@
                 <ul id="menu">
                     <li><a href="index.html" aria-label="Go to the top of the page">Home</a></li>
                     <li><a href="drink-menu.html" aria-label="Go to the cocktail menu">Cocktails</a></li>
-                    <li><a href="events.html" aria-label="Go to the event page">Events</a></li>
-                    <li><a href="about.html" aria-label="Go to the about page">About</a></li>
-                    <li><a href="contact.html" aria-label="Go to the contact section" class="active">Contact</a></li>
+                    <li><a href="events.html" aria-label="Go to the event page" class="active">Events</a></li>
+                    <li><a href="about.html" aria-label="Go to the about page" >About</a></li>
+                    <li><a href="contact.html" aria-label="Go to the contact section">Contact</a></li>
                 </ul>
             </nav>
             <span class="icon-bars"><i class="fas fa-bars"></i></span>
@@ -59,42 +59,45 @@
 
     <!--Main-->
 
-    <main id="contact-page">
+    <main>
 
-        <!--Contact form-->
+        <!--Event section-->
 
-        <section id="contact-form">
+        <section id="event-page">
+            <h2 class="heading">Events</h2>
+            <p>Live jazz every night from 20:00 - 23:00!</p>
 
-            <form action="./confirmation.html" method="get">
-                <h2 class="heading">Get in Touch</h2>
-                <!--Name input-->
+                <!--Event table-->
 
-                <label for="fname">First Name:</label>
-                <input class="input-text" type="text" id="fname" name="first_name" placeholder="Your first name.."
-                    required>
+                <table>
+                    <tr>
+                        <th>Date</th>
+                        <th>Event</th>
+                        <th>Time</th>
+                        <th>Tickets</th>
+                    </tr>
+                    <tr>
+                        <td>12/03/2024</td>
+                        <td>Leo Brown</td>
+                        <td>20:00 - 23:00</td>
+                        <td><a href="https://www.eventbrite.ie" target="_blank" rel="noopener">Book now</a></td>
+                    </tr>
+                    <tr>
+                        <td>15/03/2024</td>
+                        <td>Zara Lee</td>
+                        <td>20:00 - 23:00</td>
+                        <td><a href="https://www.eventbrite.ie" target="_blank" rel="noopener">Book now</a></td>
+                    </tr>
+                    <tr>
+                        <td>25/03/2024</td>
+                        <td>Roy Jones</td>
+                        <td>20:00 - 23:00</td>
+                        <td><a href="https://www.eventbrite.ie" target="_blank" rel="noopener">Book now</a></td>
+                    </tr>
+                </table>
 
-                <!--Last name input-->
+           
 
-                <label for="lname">Last Name:</label>
-                <input class="input-text" type="text" id="lname" name="last_name" placeholder="Your last name.."
-                    required>
-
-                <!--Email input-->
-
-                <label for="email">Email:</label>
-                <input class="input-text" type="email" id="email" name="email_address"
-                    placeholder="Your email address.." required>
-
-                <!--Message input-->
-
-                <label for="message">Your message:</label>
-                <textarea class="input-text" id="message" name="message" placeholder="Your message.."></textarea>
-
-                <!--Submit button-->
-
-                <input type="submit" value="Send" id="submit-button">
-
-            </form>
         </section>
 
 
