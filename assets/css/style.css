@@ -295,6 +295,9 @@ textarea {
     cursor: pointer;
 
 }
+#submit-button:hover {
+    border-color: #242323;
+}
 
 
 /* Media queries for responsive design */
