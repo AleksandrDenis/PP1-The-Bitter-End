@@ -277,6 +277,10 @@ footer a {
     margin: 5px 0 10px 0;
 }
 
+textarea {
+    height: 200px;
+}
+
 
 /* Media queries for responsive design */
 /* For tablets and larger screens 768px and up */
