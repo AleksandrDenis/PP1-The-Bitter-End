@@ -62,10 +62,8 @@ The chosen color palette for the website design is both sophisticated and calmin
   
 Overall, this color scheme suggests a classy and timeless feel, perfect for a jazz and cocktail bar. The darker and lighter tones can be balanced to create depth and focus on the website. The neutral tones provide a perfect backdrop for any additional colors or images you might want to add.
 
-
-
-
 ### Typography
+![typography](/assets/readme-images/typography.jpg)
 The main font used in the site is Raleway, with Sans Serif as the fallback font.
 Raleway is an elegant sans-serif typeface family. Initially designed by Matt McInerney as a single thin weight, it was expanded into a 9 weight family by Pablo Impallari and Rodrigo Fuenzalida in 2012 and iKerned by Igino Marini.
 
