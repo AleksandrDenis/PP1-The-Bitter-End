@@ -225,12 +225,6 @@ footer a {
 }
 
 /* Style for drink-menu page */
-/* Push content down to make room for header */
-#cocktail-menu,
-#about {
-    padding-top: 36px;
-}
-
 #menu-container h1 {
     text-decoration-line: underline;
     font-size: 200%;
