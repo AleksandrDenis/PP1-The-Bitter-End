@@ -319,7 +319,8 @@ textarea {
 /* Styles for events.html page */
 table {
     border-collapse: collapse;
-    margin: 0 auto;
+    margin: 40px 5px;
+    text-align: center;
     }
 
 td,
@@ -328,16 +329,9 @@ th {
     padding: 0 5px;
 }
 
-#event-page {
-    text-align: center;
-    margin-top: 40px;
-    padding-top: 20px;
-}
 
-/* Add class hide to hide times for mobile view */
-.hide {
-    display: none;
-}
+
+
 
 
 
