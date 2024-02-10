@@ -11,6 +11,8 @@ The primary objective of this site is to delve into and understand the basics of
 
 It provides a memorable blend of artisan cocktails, live jazz tunes, and a welcoming ambiance.
 
+![responsive image](/assets/readme-images/responsive.jpg)
+
 
 
 
