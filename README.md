@@ -13,6 +13,8 @@ It provides a memorable blend of artisan cocktails, live jazz tunes, and a welco
 
 ![responsive image](/assets/readme-images/responsive.jpg)
 
+### Deployed website can be found here - [The Bitter End](https://aleksandrdenis.github.io/PP1-The-Bitter-End/index.html)
+
 
 
 
