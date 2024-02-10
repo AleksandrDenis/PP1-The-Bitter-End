@@ -465,9 +465,11 @@ h4 {
     }
 
     /* Contact.html page */
+
     #contact-form {
         background-position: center;
         position: relative;
+        height: 900px;       
     }
 
     form {
