@@ -68,7 +68,7 @@ The main font used in the site is Raleway, with Sans Serif as the fallback font.
 Raleway is an elegant sans-serif typeface family. Initially designed by Matt McInerney as a single thin weight, it was expanded into a 9 weight family by Pablo Impallari and Rodrigo Fuenzalida in 2012 and iKerned by Igino Marini.
 
 
-### Images
+### Images and Video
 Images that display the fresh ingredients used in cocktails, along with pictures of performers and background, have been carefully chosen for the website to align with its color scheme and content.
 
 
