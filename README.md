@@ -52,6 +52,18 @@ It provides a memorable blend of artisan cocktails, live jazz tunes, and a welco
  * Footer
    * Provides contact information for the bar, including its address links to google maps, phone number, and email and link to  social media.
 ### Color Scheme
+The chosen color palette for the website design is both sophisticated and calming, which aligns well with the ambiance of a jazz and cocktail bar. 
+![color scheme](/assets/readme-images/color-sheme.jpg)
+* #2b3218: This is a dark, almost black, green. It’s reminiscent of an old, cozy library or a bottle of aged whiskey. used to style header and footer It gives a rich and elegant feel.
+* #ccc894: This is a muted, earthy green. It’s a mid-tone color that’s easy on the eyes and used for backgrounds.
+* #dbd5b2: This is a light, warm beige. It’s a neutral color  used for backgrounds, to highlight other elements on the page.
+* #faebd7: This is a very light, almost white, pink. It’s a soft and inviting color that  used for backgrounds to lighten up darker colors.
+* #f0f0f8: This is a very light, almost white, blue. It’s a cool and refreshing color that used to give a modern touch to the design.
+  
+Overall, this color scheme suggests a classy and timeless feel, perfect for a jazz and cocktail bar. The darker and lighter tones can be balanced to create depth and focus on the website. The neutral tones provide a perfect backdrop for any additional colors or images you might want to add.
+
+
+
 
 ### Typography
 
