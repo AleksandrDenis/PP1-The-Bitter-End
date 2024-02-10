@@ -58,7 +58,6 @@ li>a {
     color: #242323;
 }
 
-
 #menu {
     font-size: 110%;
     letter-spacing: 2px;
@@ -94,7 +93,6 @@ nav {
 }
 
 /* Style Navigation menu links */
-
 nav ul li a {
     display: block;
     padding: 15px;
@@ -113,9 +111,6 @@ nav ul li a.active {
 #menu-toggle:checked+nav {
     left: 0;
 }
-
-
-
 
 /* Main */
 main {
@@ -191,13 +186,10 @@ p {
     max-width: 300px;
 }
 
-
-
 /* Events section */
 #events {
     background-color: #ccc894;
 }
-
 
 /* Footer */
 footer {
@@ -244,7 +236,6 @@ footer a {
 #about-text {
     max-width: 800px;
     padding: 0 20px;
-
 }
 
 #about-image {
@@ -297,7 +288,6 @@ textarea {
     border-radius: 2px;
     border: 1px solid #fff;
     cursor: pointer;
-
 }
 
 #submit-button:hover {
@@ -305,13 +295,9 @@ textarea {
 }
 
 /* Style for confirmation message */
-
 #confirmation-message {
     background-color: #8E9680;
     color: #fff;
-
-
-
 }
 
 /* Styles for events.html page */
@@ -343,7 +329,6 @@ h4 {
 /* Media queries for responsive design */
 /* For tablets and larger screens 768px and up */
 @media (min-width: 768px) {
-
     /* Header and contetnt to be centered */
     header {
         display: block;
@@ -356,7 +341,6 @@ h4 {
     /* Logo */
     #logo {
         font-size: 250%;
-
     }
 
     /* Navigation menu */
@@ -467,7 +451,6 @@ h4 {
     }
 
     /* Contact.html page */
-
     #contact-form {
         background-position: center;
         position: relative;
@@ -491,6 +474,4 @@ h4 {
         padding: 4rem;
         font-size: 150%;
     }
-
-
 }
