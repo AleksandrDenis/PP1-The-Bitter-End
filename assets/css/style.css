@@ -122,6 +122,8 @@ main {
     /* Enable flex properties for child elements */
     display: flex;
     flex-direction: column;
+    /* Add space between main and footer */
+    margin-top: 36px;
 
 }
 
