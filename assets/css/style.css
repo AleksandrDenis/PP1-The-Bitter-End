@@ -418,7 +418,12 @@ h4 {
     .event-text {
         width: 50%;
         padding: 0 2rem;
-    }    
+    }
+    
+    /* Styles for drinks.html page */
+    #menu-container {
+        margin-top: 90px;
+    }
 
     /* Styles for events.html page */
     table {
