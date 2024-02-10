@@ -434,6 +434,36 @@ table a {
         margin-top: 45px;
     }
 
+    /* Styles for events.html page */
+    table {
+        text-align: center;
+        margin: 120px auto;
+    }
+    
+    td {
+        width: 300px;
+        height: 75px;
+    }
+
+    #event-page {
+        max-width: 940px;
+        margin: 0 auto;
+        height: 800px;
+    }
+    #event-page h2 {
+        text-transform: uppercase;
+        font-size: 36px;
+        letter-spacing: 0.8px;
+        font-weight: 500;
+    }
+    
+    #event-page h3, h4 {
+        text-transform: uppercase;
+        font-size: 20px;
+        letter-spacing: 0.8px;
+        font-weight: 500;
+    }
+
     /* About.html page */
     #about-image {
         width: 100%;
