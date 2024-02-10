@@ -463,6 +463,9 @@ table a {
         letter-spacing: 0.8px;
         font-weight: 500;
     }
+    table a:hover {
+        color: #8E9680;
+    }
 
     /* About.html page */
     #about-image {
