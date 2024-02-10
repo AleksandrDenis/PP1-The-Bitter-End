@@ -69,6 +69,8 @@ Raleway is an elegant sans-serif typeface family. Initially designed by Matt McI
 
 
 ### Images
+Images that display the fresh ingredients used in cocktails, along with pictures of performers and background, have been carefully chosen for the website to align with its color scheme and content.
+
 
 ### Wireframes
 
