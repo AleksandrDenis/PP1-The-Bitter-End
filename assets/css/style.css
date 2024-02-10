@@ -425,15 +425,7 @@ h4 {
     .event-text {
         width: 50%;
         padding: 0 2rem;
-    }
-
-    /* Styles for drink-menu page */
-    /* Push content down to make room for header */
-    #cocktail-menu,
-    #about {
-        padding-top: 45px;
-        margin-top: 45px;
-    }
+    }    
 
     /* Styles for events.html page */
     table {
