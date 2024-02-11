@@ -393,8 +393,8 @@ h4 {
     #hero-text p {
         font-size: 200%;
     }
-
-    /* Drinks and event section */
+/* TEST CODE
+    /* Drinks and event section 
     #drink-container,
     #event-container {
         display: flex;
@@ -409,10 +409,12 @@ h4 {
         padding: 0 2rem;
     }
 
-    /* Styles for drinks.html page */
+    /* Styles for drinks.html page 
     #menu-container {
         margin-top: 90px;
     }
+*/
+    
 
     /* Styles for events.html page */
     table {
@@ -469,12 +471,12 @@ h4 {
     }
 
     /*Footer */
-    /* Display footer links in a row */
+    /* Display footer links in a row 
     #contact-container {
         display: flex;
         flex-direction: row;
         justify-content: space-evenly;
         padding: 4rem;
         font-size: 150%;
-    }
+    }*/
 }
