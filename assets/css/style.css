@@ -45,12 +45,12 @@ header {
     padding: 0 10px;
     font-weight: 300;
     margin: 0 10px;
-    
+
 }
 
 /* Navigation menu */
 #top-nav a {
-    text-decoration: none;    
+    text-decoration: none;
     /* Remove underline from links */
 }
 
@@ -174,7 +174,7 @@ main {
 .drink-container>h2,
 h3,
 p {
-    padding:0 1rem 1rem 1rem;
+    padding: 0 1rem 1rem 1rem;
 }
 
 /* Style images of the page make them round */
@@ -225,6 +225,7 @@ footer a {
 }
 
 /* Create border around cocktail menu on drink-menu.html */
+
 #menu-container {
     border: 2px solid #242323;
     padding: 20px;
@@ -301,6 +302,12 @@ textarea {
 }
 
 /* Styles for events.html page */
+#event-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 table {
     border-collapse: collapse;
     margin: 40px 5px;
@@ -329,6 +336,7 @@ h4 {
 /* Media queries for responsive design */
 /* For tablets and larger screens 768px and up */
 @media (min-width: 768px) {
+
     /* Header and contetnt to be centered */
     header {
         display: block;
@@ -397,7 +405,7 @@ h4 {
         display: flex;
         flex-direction: row;
         justify-content: space-evenly;
-        align-items: center;       
+        align-items: center;
     }
 
     .drink-text,
@@ -405,7 +413,7 @@ h4 {
         width: 50%;
         padding: 0 2rem;
     }
-    
+
     /* Styles for drinks.html page */
     #menu-container {
         margin-top: 90px;
@@ -428,8 +436,8 @@ h4 {
         height: 800px;
     }
 
-    #event-page h4 {        
-        font-size: 20px;        
+    #event-page h4 {
+        font-size: 20px;
     }
 
     #event-page h2 {
@@ -454,7 +462,7 @@ h4 {
     #contact-form {
         background-position: center;
         position: relative;
-        height: 900px;       
+        height: 900px;
     }
 
     form {
