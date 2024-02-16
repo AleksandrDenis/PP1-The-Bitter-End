@@ -86,6 +86,52 @@ The live link can be found here  [The Bitter End](https://aleksandrdenis.github.
 
 
 # Features
+Each page is designed to be user-friendly and visually appealing, reflecting the bar’s unique charm and sophistication. The website’s overall structure is intuitive and easy to navigate, ensuring a positive user experience.
+* Header and Navigation
+  * Header contains the website’s logo sets the tone for the website.
+  * Navigation: This is a crucial part of the website that guides users to the different pages. It includes:
+    * Home: The main landing page that provides an overview of the website.
+    * Cocktails: A page that showcases the variety of cocktails available.
+    * Events: This page highlights any upcoming events or special occasions.
+    * About: A section that provides information about the establishment or company.
+    * Contact: A page with contact form for users to fill out.
+      
+ ADD IMAGE
+ 
+* Landing Page
+  * The landing page features a hero video that captures the essence of the bar’s atmosphere.
+  * Overlay text sets the mood and succinctly communicates the website’s purpose.
+    
+ ADD IMAGE
+ 
+* Coktail Menu Page
+  * This page provides a detailed list of the cocktails available, complete with descriptions and prices.
+
+ADD IMAGE 
+
+* Events Page
+ * Here, visitors can find a schedule of upcoming jazz performances and special events. Each event listing includes details such as the date, time, and links to book ticket from [eventbrite](https://www.eventbrite.ie/)
+ 
+* About Page
+  * This page offers information about the bar’s history, mission. It also includes photo to give visitors a feel for the bar’s ambiance.
+ 
+ ADD IMAGE
+
+* Contact Page
+  * This page  include a contact form for visitors to send inquiries or feedback directly through the website.
+
+ ADD IMAGE
+ 
+* Confirmation Page
+  * After a visitor submits a form on the Contact page, they’re taken to this page. It confirms that their message has been received and provides information about what to expect next and link to return to home page.
+ 
+ADD IMAGE
+
+* Footer
+  * Provides contact information for the bar, including its address links to google maps, phone number, and email and link to  social media.
+ 
+ ADD IMAGE
+
 
 
 ## Features Left to Implement
