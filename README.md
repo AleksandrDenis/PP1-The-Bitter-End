@@ -141,6 +141,22 @@ ADD IMAGE
 ## Validator Testing
 
 # Languages and Programs
+* [HTML5](https://en.wikipedia.org/wiki/HTML5)
+   * Used for structure.
+* [CSS](https://en.wikipedia.org/wiki/CSS)
+   * Used for styling.
+* [JS](https://en.wikipedia.org/wiki/JavaScript)
+  * Used to create bar menu for mobile divices.
+*  [Vs Code and Codespaces](https://en.wikipedia.org/wiki/Visual_Studio_Code)
+  * Used code editor.
+* [MS Word](https://en.wikipedia.org/wiki/Microsoft_Word)
+  * Used to write content and detect grammatical errors in a text.
+* [MS Clipchamp](https://en.wikipedia.org/wiki/Clipchamp)
+  * Used for video editing.
+* [Adobe photoshop](https://en.wikipedia.org/wiki/Adobe_Photoshop)
+   * Used for image editing.
+* [Balsamiq Wireframes](https://en.wikipedia.org/wiki/Balsamiq)
+   * Used to create wire frame.
 
 
 # Credits
