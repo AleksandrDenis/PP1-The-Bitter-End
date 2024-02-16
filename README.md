@@ -37,9 +37,12 @@ It provides a memorable blend of artisan cocktails, live jazz tunes, and a welco
   * As an owner, I want to promote upcoming jazz performances so that we can attract more customers.
 
 ## Design
-### Site Map
+
+### Structure
 
 ![site map](/assets/readme-images/Wireframe-Site-Map.png)
+
+This structure guides visitors through a journey: from getting their first impression on the Main Page, exploring the Drink Menu, learning about Events, reaching out via the Contact Us page, and finally receiving confirmation that their message has been sent. This ensures a smooth and engaging user experience.
 
 ### Color Scheme
 The chosen color palette for the website design is both sophisticated and calming, which aligns well with the ambiance of a jazz and cocktail bar. 
