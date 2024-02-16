@@ -76,6 +76,15 @@ Raleway is an elegant sans-serif typeface family. Initially designed by Matt McI
 ### Images and Video
 Images that display the fresh ingredients used in cocktails, along with pictures of performers and background, have been carefully chosen for the website to align with its color scheme and content.
 
+# Deployment
+* The site was deployed to GitHub pages. The steps to deploy are as follows:
+   * In GitHub repository, navigate to the settings tab.
+   * From side menu select pages tab.
+   * Once there select source branch:main, select folder/(root).
+   * Click save, the page provided the link to the completed website.
+The live link can be found here  [The Bitter End](https://aleksandrdenis.github.io/PP1-The-Bitter-End/index.html)
+
+
 # Features
 
 
