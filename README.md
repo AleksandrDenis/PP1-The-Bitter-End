@@ -81,8 +81,8 @@ Images that display the fresh ingredients used in cocktails, along with pictures
    * In GitHub repository, navigate to the settings tab.
    * From side menu select pages tab.
    * Once there select source branch:main, select folder/(root).
-   * Click save, the page provided the link to the completed website.
-The live link can be found here  [The Bitter End](https://aleksandrdenis.github.io/PP1-The-Bitter-End/index.html)
+   * Click save, the page provided the link to the completed website.     
+* The live link can be found here  [The Bitter End](https://aleksandrdenis.github.io/PP1-The-Bitter-End/index.html)
 
 
 # Features
