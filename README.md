@@ -37,20 +37,10 @@ It provides a memorable blend of artisan cocktails, live jazz tunes, and a welco
   * As an owner, I want to promote upcoming jazz performances so that we can attract more customers.
 
 ## Design
-### Structure
- Each page is designed to be user-friendly and visually appealing, reflecting the bar’s unique charm and sophistication. The website’s overall structure is intuitive and easy to navigate, ensuring a positive user experience.
-* Main Page
-  * The landing page features a hero video that captures the essence of the bar’s atmosphere. It also includes sections dedicated to showcasing the drinks and upcoming events.
-* Cocktail Menu Page
-  * This page provides a detailed list of the cocktails available, complete with descriptions and prices.
-* Events Page
-  * Here, visitors can find a schedule of upcoming jazz performances and special events. Each event listing includes details such as the date, time, and links to book ticket from [eventbrite](https://www.eventbrite.ie/)
- * About Page
-   * This page offers information about the bar’s history, mission. It also includes photo to give visitors a feel for the bar’s ambiance.
- * Contact Page
-   * This page provides It include a contact form for visitors to send inquiries or feedback directly through the website.
- * Footer
-   * Provides contact information for the bar, including its address links to google maps, phone number, and email and link to  social media.
+### Site Map
+
+![site map](/assets/readme-images/Wireframe-Site-Map.png)
+
 ### Color Scheme
 The chosen color palette for the website design is both sophisticated and calming, which aligns well with the ambiance of a jazz and cocktail bar. 
 ![color scheme](/assets/readme-images/color-sheme.jpg)
