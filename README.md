@@ -44,8 +44,20 @@ It provides a memorable blend of artisan cocktails, live jazz tunes, and a welco
 
 This structure guides visitors through a journey: from getting their first impression on the Main Page, exploring the Drink Menu, learning about Events, reaching out via the Contact Us page, and finally receiving confirmation that their message has been sent. This ensures a smooth and engaging user experience.
 
+### Wireframes
+* Mobile
+  * Visual blueprint for a website’s structure when viewed on a mobile device.
+    
+ ![wireframe mobile](assets/readme-images/Wireframe-Mobile.png)
+
+ * Desktop
+   * Visual blueprint for a website’s structure when viewed on a desktop and larger device.
+
+  ![wireframe desktop](assets/readme-images/Wireframe-Descktop.png) 
+  
 ### Color Scheme
-The chosen color palette for the website design is both sophisticated and calming, which aligns well with the ambiance of a jazz and cocktail bar. 
+The chosen color palette for the website design is both sophisticated and calming, which aligns well with the ambiance of a jazz and cocktail bar.
+
 ![color scheme](/assets/readme-images/color-sheme.jpg)
 * #2b3218: This is a dark, almost black, green. It’s reminiscent of an old, cozy library or a bottle of aged whiskey. used to style header and footer It gives a rich and elegant feel.
 * #ccc894: This is a muted, earthy green. It’s a mid-tone color that’s easy on the eyes and used for backgrounds.
@@ -63,9 +75,6 @@ Raleway is an elegant sans-serif typeface family. Initially designed by Matt McI
 
 ### Images and Video
 Images that display the fresh ingredients used in cocktails, along with pictures of performers and background, have been carefully chosen for the website to align with its color scheme and content.
-
-
-### Wireframes
 
 # Features
 
