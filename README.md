@@ -148,7 +148,7 @@ ADD IMAGE
 * [JS](https://en.wikipedia.org/wiki/JavaScript)
   * Used to create bar menu for mobile divices.
 *  [Vs Code and Codespaces](https://en.wikipedia.org/wiki/Visual_Studio_Code)
-  * Used code editor.
+  * Used as code editor.
 * [MS Word](https://en.wikipedia.org/wiki/Microsoft_Word)
   * Used to write content and detect grammatical errors in a text.
 * [MS Clipchamp](https://en.wikipedia.org/wiki/Clipchamp)
