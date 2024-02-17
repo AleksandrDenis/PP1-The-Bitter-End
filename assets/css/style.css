@@ -299,13 +299,16 @@ textarea {
 /* Style for confirmation message */
 #confirmation-message {
     background-color: #8E9680;
-    color: #fff;
+    padding: 10px;
+    margin: 40px;
+    text-align: center;
+    border: 1px solid #242323;
 }
 
 /* Styles for events.html page */
 
 table {
-    border-collapse: collapse;   
+    border-collapse: collapse;
     text-align: center;
     margin: 40px 5px;
 }
@@ -313,7 +316,7 @@ table {
 td,
 th {
     border: 1px solid #242323;
-    
+
 }
 
 table a {
@@ -397,7 +400,7 @@ h4 {
     #hero-text h3,
     #hero-text p {
         font-size: 200%;
-    }    
+    }
 
     /* Styles for events.html page */
     table {
@@ -431,6 +434,7 @@ h4 {
     table a:hover {
         color: #8E9680;
     }
+
     /* Drink menu page */
     /* Styles for drinks.html page*/
     #menu-container {
@@ -458,18 +462,15 @@ h4 {
         padding: 0 20px 10px 20px;
     }
 
-    
+
 }
 
 /* For Large Devices (Laptops/Desktops) 992px and up */
-@media (min-width: 992px) {
-
-
-}
+@media (min-width: 992px) {}
 
 /* For Extra Large Devices (Large Laptops/Desktops) 1200px and up */
 @media (min-width: 1200px) {
-    
+
     /* Drinks and event section*/
     #drink-container,
     #event-container {
@@ -483,7 +484,7 @@ h4 {
     .event-text {
         width: 50%;
         padding: 0 2rem;
-    }   
+    }
 
     /*Footer */
     /* Display footer links in a row */
@@ -498,4 +499,3 @@ h4 {
 
 
 }
-
