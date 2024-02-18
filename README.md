@@ -22,7 +22,6 @@ It provides a memorable blend of artisan cocktails, live jazz tunes, and a welco
 1. [UX](#ux)
    1. [User Stories](##user-stories)
    2. [Design](##design)
-   3. 
 3. [Deployment](#deployment)
 4. [Features](#features)
    1. [Features Left to Implement](##features-left-to-implement)
