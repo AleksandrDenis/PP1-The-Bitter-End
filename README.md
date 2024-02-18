@@ -96,45 +96,53 @@ Each page is designed to be user-friendly and visually appealing, reflecting the
     * About: A section that provides information about the establishment or company.
     * Contact: A page with contact form for users to fill out.
       
- ADD IMAGE
+ ![header and navigation](/assets/readme-images/header.png)
  
 * Landing Page
   * The landing page features a hero video that captures the essence of the bar’s atmosphere.
   * Overlay text sets the mood and succinctly communicates the website’s purpose.
     
-
-
 https://github.com/AleksandrDenis/PP1-The-Bitter-End/assets/94542773/32602818-6672-49cb-a603-63f85aa34b37
 
+*  Signature Cocktail Section
+   * Features a curated selection of unique and delightful cocktails crafted by our expert mixologists.
+    
+ ![cocktails section](/assets/readme-images/cocktails-section.png)
 
- 
-* Coktail Menu Page
+*  Live This Month Section
+   * Section is a vibrant showcase of upcoming events and performances.
+    
+  ![events section](/assets/readme-images/events-section.png)
+  
+* Cocktail Menu Page
   * This page provides a detailed list of the cocktails available, complete with descriptions and prices.
 
-ADD IMAGE 
+![cocktail menu](/assets/readme-images/drink-menu.png)
 
 * Events Page
  * Here, visitors can find a schedule of upcoming jazz performances and special events. Each event listing includes details such as the date, time, and links to book ticket from [eventbrite](https://www.eventbrite.ie/)
+
+![event page](/assets/readme-images/events-page.png)
  
 * About Page
   * This page offers information about the bar’s history, mission. It also includes photo to give visitors a feel for the bar’s ambiance.
  
- ADD IMAGE
+ ![about page](/assets/readme-images/about-page.png)
 
 * Contact Page
   * This page  include a contact form for visitors to send inquiries or feedback directly through the website.
 
- ADD IMAGE
+ ![contact page](/assets/readme-images/contact-page.png)
  
 * Confirmation Page
   * After a visitor submits a form on the Contact page, they’re taken to this page. It confirms that their message has been received and provides information about what to expect next and link to return to home page.
  
-ADD IMAGE
+![confirmation page](/assets/readme-images/confirmation-page.png)
 
 * Footer
   * Provides contact information for the bar, including its address links to google maps, phone number, and email and link to  social media.
  
- ADD IMAGE
+![footer](/assets/readme-images/footer.png)
 
 
 
