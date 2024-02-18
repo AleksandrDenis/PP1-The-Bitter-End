@@ -88,7 +88,7 @@ Images that display the fresh ingredients used in cocktails, along with pictures
 # Features
 Each page is designed to be user-friendly and visually appealing, reflecting the bar’s unique charm and sophistication. The website’s overall structure is intuitive and easy to navigate, ensuring a positive user experience.
 * Header and Navigation
-  * Header contains the website’s logo sets the tone for the website.
+  * Header contains the website’s logo sets the tone for the website and provides link to home page.
   * Navigation: This is a crucial part of the website that guides users to the different pages. It includes:
     * Home: The main landing page that provides an overview of the website.
     * Cocktails: A page that showcases the variety of cocktails available.
@@ -137,8 +137,40 @@ ADD IMAGE
 ## Features Left to Implement
 
 # Testing
-## Testing User Stories
+
 ## Validator Testing
+* HTML
+  * When passing the official [W3C](https://validator.w3.org/) validator following errors logged:
+    * Element h1 not allowed as child of element <a>. Fixed by inserting a href attribute inside h1 element.
+    * Duplicated Id found. Fixed by renaming id.
+ * CSS
+   * No errors were found when passing through the official [Jigsaw](https://jigsaw.w3.org/css-validator/) validator.
+   <p>
+    <a href="https://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="https://jigsaw.w3.org/css-validator/images/vcss-blue"
+            alt="Valid CSS!" />
+    </a>
+</p>
+
+ * Accessibility
+   * I confirmed that website preforms highly, running through Chrome's lighthouse devtools. Colors and fonts being used in throughout the website are easy to read and accessible.
+     * Landing Page
+       ADD IMAGE
+     * Cocktails
+       ADD IMAGE
+     * Events
+       ADD IMAGE
+     * About
+       ADD IMAGE
+     * Contact
+       ADD IMAGE
+     * Confirmation
+       ADD IMAGE
+
+   
+   
+
 
 # Languages and Programs
 * [HTML5](https://en.wikipedia.org/wiki/HTML5)
