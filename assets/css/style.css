@@ -41,19 +41,23 @@ header {
     height: 50px;
 }
 
-#logo {
+header a {
+    text-decoration: none;
     color: #f0f0f8;
+}
+
+#logo {    
     padding: 10px;
     font-weight: 300;
-    margin: 0 10px;
+    margin: 0 10px;    
 }
 
 /* Navigation menu */
 #top-nav a {
+    /* Remove underline from links */
     text-decoration: none;
     display: block;
-    width: 70%;
-    /* Remove underline from links */
+    width: 70%;    
 }
 
 li>a {
