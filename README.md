@@ -154,20 +154,32 @@ ADD IMAGE
 </p>
 
  * Accessibility
-   * I confirmed that website preforms highly, running through Chrome's lighthouse devtools. Colors and fonts being used in throughout the website are easy to read and accessible.
-     * Landing Page
-       ADD IMAGE
-     * Cocktails
-       ADD IMAGE
-     * Events
-       ADD IMAGE
-     * About
-       ADD IMAGE
-     * Contact
-       ADD IMAGE
-     * Confirmation
-       ADD IMAGE
-
+ * I confirmed that website preforms highly, running through Chrome's lighthouse devtools. Colors and fonts being used in throughout the website are easy to read and accessible.
+     
+     
+**Landing Page**
+                          
+  ![landing page](/assets/readme-images/lighthouse-landing.png)
+     
+   **Cocktails Page**
+     
+  ![responsive image](/assets/readme-images/lighthouse-cocktails.png)
+  
+   **Events Page**
+     
+  ![responsive image](/assets/readme-images/lighthouse-events.png)
+  
+  **About Page**
+     
+  ![responsive image](/assets/readme-images/lighthouse-about.png)
+  
+  **Contact Page**
+     
+  ![responsive image](/assets/readme-images/lighthouse-contact.png)
+  
+  **Confirmation Page**
+     
+  ![responsive image](/assets/readme-images/lighthouse-confirmation.png)
    
    
 
