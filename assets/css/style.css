@@ -11,7 +11,7 @@
 
 /* Set global styles */
 body {
-    background-color: antiquewhite;
+    background-color: #faebd7;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
@@ -34,7 +34,7 @@ body {
 
 /* Header and logo */
 header {
-    background-color: rgb(43, 50, 24);
+    background-color: #2b3218;
     position: fixed;
     width: 100%;
     z-index: 1;
@@ -42,7 +42,7 @@ header {
 }
 
 #logo {
-    color: #fff;
+    color: #f0f0f8;
     padding: 10px;
     font-weight: 300;
     margin: 0 10px;
@@ -80,7 +80,7 @@ li>a {
     z-index: 2;
     font-size: 25px;
     cursor: pointer;
-    color: #fff;
+    color: #f0f0f8;
     padding-top: 5px;
 }
 
@@ -90,7 +90,7 @@ nav {
     left: -250px;
     width: 250px;
     height: 100%;
-    background-color: antiquewhite;
+    background-color: #f0f0f8;
     transition: 0.5s;
     z-index: 1;
 }
@@ -152,7 +152,7 @@ main {
     left: 50%;
     transform: translate(-50%, -50%);
     padding: 0 5px;
-    color: #fff;
+    color: #f0f0f8;
 }
 
 #hero-text h3,
@@ -165,7 +165,7 @@ main {
 #events,
 #cocktail-menu,
 #about {
-    background-color: rgb(240, 240, 248);
+    background-color: #f0f0f8;
     text-align: center;
     display: flex;
     flex-direction: column;
@@ -196,7 +196,7 @@ p {
 /* Footer */
 footer {
     background-color: rgb(43, 50, 24, 0.8);
-    color: #fff;
+    color: #f0f0f8;
 }
 
 /* style for footer links */
@@ -218,7 +218,7 @@ footer {
 
 footer a {
     text-decoration: none;
-    color: #fff;
+    color: #f0f0f8;
 }
 
 /* Style for drink-menu page */
@@ -262,14 +262,14 @@ footer a {
 
 form {
     background-color: rgb(60, 60, 60, 0.8);
-    color: #fff;
+    color: #f0f0f8;
     padding: 0 10px 10px 10px;
 }
 
 .input-text {
     width: 100%;
     padding: 10px;
-    color: #fff;
+    color: #f0f0f8;
     background-color: transparent;
     border: 1px solid #fff;
     border-radius: 2px;
@@ -294,7 +294,7 @@ textarea {
     font-size: 100%;
     padding: 10px 20px;
     border-radius: 2px;
-    border: 1px solid #fff;
+    border: 1px solid #f0f0f8;
     cursor: pointer;
 }
 
@@ -313,7 +313,7 @@ textarea {
 
 #confirmation-message {
     background-color: rgb(60, 60, 60, 0.8);
-    color: #fff;
+    color: #f0f0f8;
     padding: 10px 10px 20px 10px;
     margin: 40px;
     text-align: center;
@@ -324,7 +324,7 @@ textarea {
 .button {
     display: inline-block;
     padding: 10px 20px;
-    background-color: #fff;
+    background-color: #f0f0f8;
     color: #242323;
     text-align: center;
     border-radius: 5px;
@@ -402,18 +402,18 @@ h4 {
     nav ul li a {
         padding: 0;
         margin-left: 2rem;
-        color: #fff;
+        color: #f0f0f8;
     }
 
     /* Style active link */
     nav ul li a.active {
         background-color: transparent;
-        border-bottom: 1px solid #fff;
+        border-bottom: 1px solid #f0f0f8;
     }
 
     #menu a:hover {
         background-color: transparent;
-        border-bottom: 1px solid #fff;
+        border-bottom: 1px solid #f0f0f8;
     }
 
     /* Hide icon bars */
@@ -462,7 +462,7 @@ h4 {
     }
 
     table a:hover {
-        color: #8E9680;
+        color:#ccc894;
     }
 
     /* Drink menu page */
@@ -509,7 +509,7 @@ h4 {
     }
 
     .button:hover {
-        background-color: #8E9680;
+        background-color: #ccc894;
     }
     /* Footer */
 #contact-container {
