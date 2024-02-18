@@ -293,7 +293,7 @@ textarea {
 }
 
 #submit-button:hover {
-    border-color: #242323;
+    background-color: #8E9680;
 }
 
 /* Style for confirmation message */
