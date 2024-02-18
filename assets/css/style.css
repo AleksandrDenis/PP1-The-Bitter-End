@@ -45,7 +45,6 @@ header {
     padding: 0 10px;
     font-weight: 300;
     margin: 0 10px;
-
 }
 
 /* Navigation menu */
@@ -121,7 +120,6 @@ main {
     flex-direction: column;
     /* Add space between main and footer */
     margin-top: 36px;
-
 }
 
 /* Hero section */
@@ -226,7 +224,6 @@ footer a {
 }
 
 /* Create border around cocktail menu on drink-menu.html */
-
 #menu-container {
     border: 2px solid #242323;
     padding: 20px;
@@ -309,10 +306,11 @@ textarea {
     flex-grow: 1;
 
 }
+
 #confirmation-message {
     background-color: rgb(60, 60, 60, 0.8);
     color: #fff;
-    padding: 10px 10px 20px 10px;    
+    padding: 10px 10px 20px 10px;
     margin: 40px;
     text-align: center;
     border: 1px solid #242323;
@@ -327,11 +325,10 @@ textarea {
     text-align: center;
     border-radius: 5px;
     font-weight: bold;
-    text-decoration: none;    
+    text-decoration: none;
 }
 
 /* Styles for events.html page */
-
 table {
     border-collapse: collapse;
     text-align: center;
@@ -341,7 +338,6 @@ table {
 td,
 th {
     border: 1px solid #242323;
-
 }
 
 table a {
@@ -536,6 +532,4 @@ h4 {
         font-size: 150%;
         padding: 40px;
     }
-
-
 }
