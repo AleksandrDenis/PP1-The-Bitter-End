@@ -508,9 +508,6 @@ h4 {
     }
 }
 
-/* For Large Devices (Laptops/Desktops) 992px and up */
-@media (min-width: 992px) {}
-
 /* For Extra Large Devices (Large Laptops/Desktops) 1200px and up */
 @media (min-width: 1200px) {
 
