@@ -147,6 +147,12 @@ https://github.com/AleksandrDenis/PP1-The-Bitter-End/assets/94542773/32602818-66
 
 
 ## Features Left to Implement
+ * Photo Galler to:
+   * Enhancing the visual appeal.
+   * Showcase services.
+ * Review Section to:
+   * Gathering feedback and insights.
+   * Building trust and credibility.  
 
 # Testing
 ## Responsive Web Design
