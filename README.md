@@ -1,4 +1,4 @@
-# The Bitter End
+# The Bitter End 
 ## Overview
 “The Bitter End” is a website developed as part of the Code Institute course.
 
@@ -19,6 +19,17 @@ It provides a memorable blend of artisan cocktails, live jazz tunes, and a welco
 
 
 # Index
+1. [UX](#ux)
+   1. [User Stories](##user-stories)
+   2. [Design](##design)
+3. [Deployment](#deployment)
+4. [Features](#features)
+5. [Testing](#testing)
+6. [Languages and Programs](#languages-and-programs)
+7. [Credits](#credits)
+8. [Acknowledgements](#acknowledgements)
+
+
 
 # UX
 ## User Stories:
@@ -287,3 +298,5 @@ https://github.com/AleksandrDenis/PP1-The-Bitter-End/assets/94542773/32602818-66
 ## Media
 
 # Acknowledgements
+
+
