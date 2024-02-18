@@ -297,9 +297,17 @@ textarea {
 }
 
 /* Style for confirmation message */
-#confirmation-message {
-    background-color: #8E9680;
+#confirmation-page {
+    background-image: url('../images/confirmation-image.jpg');
+    background-size: cover;
     padding: 10px;
+    flex-grow: 1;
+
+}
+#confirmation-message {
+    background-color: rgb(60, 60, 60, 0.8);
+    color: #fff;
+    padding: 10px 10px 20px 10px;    
     margin: 40px;
     text-align: center;
     border: 1px solid #242323;
