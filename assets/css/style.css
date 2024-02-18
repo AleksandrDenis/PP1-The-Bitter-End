@@ -361,6 +361,11 @@ h4 {
     font-weight: 500;
 }
 
+/* Footer */
+#contact-container {
+    font-size: 150%;
+}
+
 /* Media queries for responsive design */
 /* For tablets and larger screens 768px and up */
 @media (min-width: 768px) {
