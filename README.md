@@ -22,6 +22,11 @@ It provides a memorable blend of artisan cocktails, live jazz tunes, and a welco
 1. [UX](#ux)
    1. [User Stories](#user-stories)
    2. [Design](#design)
+      1. [Structure](#structure)
+      2. [Wireframes](#wireframes)
+      3. [Color Scheme](#color-scheme)
+      4. [Typography](#typography)
+      5. [Images and Video](#images-and-video)
 3. [Deployment](#deployment)
 4. [Features](#features)
    1. [Features Left to Implement](#features-left-to-implement)
@@ -68,7 +73,7 @@ This structure guides visitors through a journey: from getting their first impre
     
  ![wireframe mobile](assets/readme-images/Wireframe-Mobile.png)
 
- * Desktop
+ * Destop
    * Visual blueprint for a website’s structure when viewed on a desktop and larger device.
 
   ![wireframe desktop](assets/readme-images/Wireframe-Descktop.png) 
