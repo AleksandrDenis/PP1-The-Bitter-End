@@ -120,7 +120,7 @@ https://github.com/AleksandrDenis/PP1-The-Bitter-End/assets/94542773/32602818-66
 ![cocktail menu](/assets/readme-images/drink-menu.png)
 
 * Events Page
- * Here, visitors can find a schedule of upcoming jazz performances and special events. Each event listing includes details such as the date, time, and links to book ticket from [eventbrite](https://www.eventbrite.ie/)
+  * Here, visitors can find a schedule of upcoming jazz performances and special events. Each event listing includes details such as the date, time, and links to book ticket from [eventbrite](https://www.eventbrite.ie/)
 
 ![event page](/assets/readme-images/events-page.png)
  
@@ -149,6 +149,67 @@ https://github.com/AleksandrDenis/PP1-The-Bitter-End/assets/94542773/32602818-66
 ## Features Left to Implement
 
 # Testing
+## Responsive Web Design
+* [Responsive Design Checker](https://www.responsivedesignchecker.com/) was used to test the responsiveness of the website on various screen sizes and devices.
+* [Chrome DevTools](https://developer.chrome.com/docs/devtools/) was used to test responsiveness in different screen sizes during the development process.
+
+## Manual Testing
+**Cross-Browser Compatibility Testing**
+   * Edge
+     * Layout and responsiveness: No critical issues were identified.
+     * Functionality and performance: No critical issues were identified.
+     * Accessibility and usability: No critical issues were identified.
+     * Visual appearance and design: No critical issues were identified. 
+   * Firefox
+     * Layout and responsiveness: No critical issues were identified.
+     * Functionality and performance: No critical issues were identified.
+     * Accessibility and usability: No critical issues were identified.
+     * Visual appearance and design: No critical issues were identified.
+   * Chrome
+     * Layout and responsiveness: No critical issues were identified.
+     * Functionality and performance: No critical issues were identified.
+     * Accessibility and usability: No critical issues were identified.
+     * Visual appearance and design: No critical issues were identified.
+
+     **Common Features Testing**
+   * Heder
+     * The logo is visible and clickable, and it redirects to the home page.
+     * The navigation menu has the correct links and labels, and it expands and collapses as expected.
+     * The header is responsive and adapts to different screen sizes and orientations.
+       
+   * Navigation Links
+     * The links are visible and clickable, and they redirect to the correct pages.
+     * The links have the appropriate text and they match the design and style of the website.
+     * The links are responsive and adapt to different screen sizes and orientations.
+     * The links have the proper active state and they indicate the current page.
+       
+   * Footer
+     * The email is visible and clickable, and it opens the default email client with the correct recipient address.
+     * The telephone is visible and clickable, and it initiates a call with the correct number.
+     * The social media icon are visible and clickable and open the corresponding social media platform in a new tab.
+     * The location icon is visible and interactive and open the google maps in a new tab.
+     * The footer is responsive and adapts to different screen sizes and orientations.
+       
+   * Cocktails Page
+     * The drinks are categorized and sorted correctly, and they have the correct names and prices.
+       
+   * Event Page
+     * The events are listed and sorted correctly, and they have the correct names, dates.
+     * The events have a link to another website to book tickets, and the link is visible and clickable, and it opens the correct website in a new tab.
+     * The links have the hover state that highlighting the button for the customer.
+
+       
+   * About Page
+     * The information is accurate and relevant, and it reflects the mission and vision of the business.
+     * The information is organized and structured, and it uses headings.
+       
+   * Contact page
+     * The contact form is functional and user-friendly, and it has the correct fields, labels, placeholders, and validations.
+     * The contact form has a submit button, and it sends the data to the correct recipient and shows a confirmation message.
+       
+   * Confirmation Page
+     * The confirmation page has back to home button and it redirects to the home page.
+     * The links have the hover state that highlighting the button for the customer.
 
 ## Validator Testing
 * HTML
