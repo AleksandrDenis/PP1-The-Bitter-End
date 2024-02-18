@@ -102,7 +102,11 @@ Each page is designed to be user-friendly and visually appealing, reflecting the
   * The landing page features a hero video that captures the essence of the bar’s atmosphere.
   * Overlay text sets the mood and succinctly communicates the website’s purpose.
     
- ADD IMAGE
+
+
+https://github.com/AleksandrDenis/PP1-The-Bitter-End/assets/94542773/32602818-6672-49cb-a603-63f85aa34b37
+
+
  
 * Coktail Menu Page
   * This page provides a detailed list of the cocktails available, complete with descriptions and prices.
