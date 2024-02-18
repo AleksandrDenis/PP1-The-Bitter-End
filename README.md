@@ -159,7 +159,7 @@ ADD IMAGE
      
 **Landing Page**
                           
-  ![landing page](/assets/readme-images/lighthouse-landing.png)
+  ![landing page](/assets/readme-images/lighthouse-landing.png) 
      
    **Cocktails Page**
      
@@ -180,9 +180,6 @@ ADD IMAGE
   **Confirmation Page**
      
   ![responsive image](/assets/readme-images/lighthouse-confirmation.png)
-   
-   
-
 
 # Languages and Programs
 * [HTML5](https://en.wikipedia.org/wiki/HTML5)
