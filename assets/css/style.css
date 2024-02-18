@@ -283,6 +283,11 @@ textarea {
     border-color: #242323;
 }
 
+/* Change color of placeholder text */
+::placeholder {
+    color: #ffffffa4;
+}
+
 /* Style submit button */
 #submit-button {
     font-size: 100%;
