@@ -482,7 +482,25 @@ h4 {
         padding: 0 20px 10px 20px;
     }
 
+    /* Confirmation page */
+    #confirmation-page {
+        height: 900px;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+    }
 
+    #confirmation-message {
+        position: absolute;
+        top: 40%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        max-width: 800px;
+    }
+
+    .button:hover {
+        background-color: #8E9680;
+    }
 }
 
 /* For Large Devices (Laptops/Desktops) 992px and up */
