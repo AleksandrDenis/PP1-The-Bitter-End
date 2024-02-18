@@ -22,12 +22,20 @@ It provides a memorable blend of artisan cocktails, live jazz tunes, and a welco
 1. [UX](#ux)
    1. [User Stories](##user-stories)
    2. [Design](##design)
+   3. 
 3. [Deployment](#deployment)
 4. [Features](#features)
-5. [Testing](#testing)
-6. [Languages and Programs](#languages-and-programs)
-7. [Credits](#credits)
-8. [Acknowledgements](#acknowledgements)
+   1. [Features Left to Implement](##features-left-to-implement)
+6. [Testing](#testing)
+   1. [Responsive Web Design](##responsive-web-design)
+   2. [Manual Testing](##manual-testing)
+   3. [Validator Testing](##validator-testing)
+8. [Languages and Programs](#languages-and-programs)
+9. [Credits](#credits)
+    1. [Code](##code)
+    2. [Content](##content)
+    3. [Media](##media)
+11. [Acknowledgements](#acknowledgements)
 
 
 
@@ -298,5 +306,7 @@ https://github.com/AleksandrDenis/PP1-The-Bitter-End/assets/94542773/32602818-66
 ## Media
 
 # Acknowledgements
+
+[Back To Top](#the-bitter-end)
 
 
