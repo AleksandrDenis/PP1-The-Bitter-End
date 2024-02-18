@@ -46,13 +46,13 @@ It provides a memorable blend of artisan cocktails, live jazz tunes, and a welco
 # UX
 ## User Stories:
 * New User
-  * As a new usere, I want to view the cocktail menu so that I can decide what to order.
+  * As a new user, I want to view the cocktail menu so that I can decide what to order.
   * As a new user, I want to see the schedule of live jazz performances so that I can plan my visit.
   * As a new user, I want to book tickets for performance.
   * As a new user, I want to know about bar.
   * As a new user, I want to contact bar and book a table so that I can ensure I have a spot on a busy night.
 * Returning User
-  * As a returning user, I want to check for upcoming jazz performances so that I can attend my favorite shows.
+  * As a returning user, I want to check for upcoming jazz performances so that I can attend my favourite shows.
   * As a returning user, I want to see any changes in the cocktail menu so that I can try new drinks.
 
 * Owner goal
@@ -73,7 +73,7 @@ This structure guides visitors through a journey: from getting their first impre
     
  ![wireframe mobile](assets/readme-images/Wireframe-Mobile.png)
 
- * Destop
+ * Desktop
    * Visual blueprint for a website’s structure when viewed on a desktop and larger device.
 
   ![wireframe desktop](assets/readme-images/Wireframe-Descktop.png) 
@@ -84,8 +84,8 @@ The chosen color palette for the website design is both sophisticated and calmin
 ![color scheme](/assets/readme-images/color-sheme.jpg)
 * #2b3218: This is a dark, almost black, green. It’s reminiscent of an old, cozy library or a bottle of aged whiskey. used to style header and footer It gives a rich and elegant feel.
 * #ccc894: This is a muted, earthy green. It’s a mid-tone color that’s easy on the eyes and used for backgrounds.
-* #dbd5b2: This is a light, warm beige. It’s a neutral color  used for backgrounds, to highlight other elements on the page.
-* #faebd7: This is a very light, almost white, pink. It’s a soft and inviting color that  used for backgrounds to lighten up darker colors.
+* #dbd5b2: This is a light, warm beige. It’s a neutral color used for backgrounds, to highlight other elements on the page.
+* #faebd7: This is a very light, almost white, pink. It’s a soft and inviting color that used for backgrounds to lighten up darker colors.
 * #f0f0f8: This is a very light, almost white, blue. It’s a cool and refreshing color that used to give a modern touch to the design.
   
 Overall, this color scheme suggests a classy and timeless feel, perfect for a jazz and cocktail bar. The darker and lighter tones can be balanced to create depth and focus on the website. The neutral tones provide a perfect backdrop for any additional colors or images you might want to add.
@@ -153,7 +153,7 @@ https://github.com/AleksandrDenis/PP1-The-Bitter-End/assets/94542773/32602818-66
  ![about page](/assets/readme-images/about-page.png)
 
 * Contact Page
-  * This page  include a contact form for visitors to send inquiries or feedback directly through the website.
+  * This page include a contact form for visitors to send inquiries or feedback directly through the website.
 
  ![contact page](/assets/readme-images/contact-page.png)
  
@@ -163,7 +163,7 @@ https://github.com/AleksandrDenis/PP1-The-Bitter-End/assets/94542773/32602818-66
 ![confirmation page](/assets/readme-images/confirmation-page.png)
 
 * Footer
-  * Provides contact information for the bar, including its address links to google maps, phone number, and email and link to  social media.
+  * Provides contact information for the bar, including its address links to google maps, phone number, and email and link to social media.
  
 ![footer](/assets/readme-images/footer.png)
 
@@ -208,14 +208,14 @@ https://github.com/AleksandrDenis/PP1-The-Bitter-End/assets/94542773/32602818-66
        
    * Navigation Links
      * The links are visible and clickable, and they redirect to the correct pages.
-     * The links have the appropriate text and they match the design and style of the website.
+     * The links have the appropriate text, they match the design and style of the website.
      * The links are responsive and adapt to different screen sizes and orientations.
-     * The links have the proper active state and they indicate the current page.
+     * The links have the proper active state, they indicate the current page.
        
    * Footer
      * The email is visible and clickable, and it opens the default email client with the correct recipient address.
      * The telephone is visible and clickable, and it initiates a call with the correct number.
-     * The social media icon are visible and clickable and open the corresponding social media platform in a new tab.
+     * The social media icon is visible and clickable and open the corresponding social media platform in a new tab.
      * The location icon is visible and interactive and open the google maps in a new tab.
      * The footer is responsive and adapts to different screen sizes and orientations.
        
@@ -237,7 +237,7 @@ https://github.com/AleksandrDenis/PP1-The-Bitter-End/assets/94542773/32602818-66
      * The contact form has a submit button, and it sends the data to the correct recipient and shows a confirmation message.
        
    * Confirmation Page
-     * The confirmation page has back to home button and it redirects to the home page.
+     * The confirmation page has back to home button, it redirects to the home page.
      * The links have the hover state that highlighting the button for the customer.
 
 ## Validator Testing
@@ -289,7 +289,7 @@ https://github.com/AleksandrDenis/PP1-The-Bitter-End/assets/94542773/32602818-66
 * [CSS](https://en.wikipedia.org/wiki/CSS)
    * Used for styling.
 * [JS](https://en.wikipedia.org/wiki/JavaScript)
-  * Used to create bar menu for mobile divices.
+  * Used to create bar menu for mobile devices.
 *  [Vs Code and Codespaces](https://en.wikipedia.org/wiki/Visual_Studio_Code)
   * Used as code editor.
 * [MS Word](https://en.wikipedia.org/wiki/Microsoft_Word)
