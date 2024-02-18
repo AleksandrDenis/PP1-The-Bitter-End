@@ -1,7 +1,6 @@
 // This is the javascript file to hide and show the menu on mobile devices
 // Get the checkbox input and the nav element
 var menuToggle = document.getElementById("menu-toggle");
-var nav = document.getElementById("sidebar-menu");
 
 
 // Get all the links inside the nav element
