@@ -45,10 +45,10 @@ header a {
     color: #f0f0f8;
 }
 
-#logo {    
+#logo {
     padding: 10px 10px 4px 10px;
     font-weight: 300;
-    margin: 0 10px;    
+    margin: 0 10px;
 }
 
 /* Navigation menu */
@@ -56,7 +56,7 @@ header a {
     /* Remove underline from links */
     text-decoration: none;
     display: block;
-    width: 70%;    
+    width: 70%;
 }
 
 li>a {
@@ -378,7 +378,7 @@ h4 {
         padding: 0 2rem;
         height: 120px;
     }
-    
+
     #top-nav a {
         width: 100%;
     }
@@ -408,6 +408,7 @@ h4 {
         margin-left: 2rem;
         color: #f0f0f8;
     }
+
     /* Hide icon bars */
     .nav-toggle-label {
         display: none;
@@ -433,6 +434,22 @@ h4 {
     #hero-text h3,
     #hero-text p {
         font-size: 200%;
+    }
+
+    /* Drinks and event section*/
+    #drink-container,
+    #event-container {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+
+    .drink-text,
+    .event-text {
+        width: 50%;
+        padding: 0 2rem;
     }
 
     /* Styles for events.html page */
@@ -465,7 +482,7 @@ h4 {
     }
 
     table a:hover {
-        color:#ccc894;
+        color: #ccc894;
     }
 
     /* Drink menu page */
@@ -514,23 +531,10 @@ h4 {
     .button:hover {
         background-color: #ccc894;
     }
-    /* Footer */
-#contact-container {
-    font-size: 150%;
-}
 
-#drink-container,
-#event-container {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-evenly;
-    align-items: center;
-    flex-wrap: wrap;
-}
-.drink-text,
-    .event-text {
-        width: 50%;
-        padding: 0 2rem;
+    /* Footer */
+    #contact-container {
+        font-size: 150%;
     }
 
 }
@@ -543,8 +547,6 @@ h4 {
     #event-container {
         flex-wrap: nowrap;
     }
-
-    
 
     /*Footer */
     /* Display footer links in a row */
