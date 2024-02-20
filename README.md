@@ -36,7 +36,8 @@ It provides a memorable blend of artisan cocktails, live jazz tunes, and a welco
    2. [Manual Testing](#manual-testing)
    3. [Validator Testing](#validator-testing)
 8. [Languages and Programs](#languages-and-programs)
-9. [Credits](#credits)
+9. [Learning Outcomes](#learning-outcomes)
+10. [Credits](#credits)
     1. [Code](#code)
     2. [Content](#content)
     3. [Media](#media)
@@ -346,7 +347,19 @@ Screen Size | Device
    * Used for image editing.
 * [Balsamiq Wireframes](https://en.wikipedia.org/wiki/Balsamiq)
    * Used to create wire frame.
-
+# Learning Outcomes
+1. Understanding HTML and CSS:
+      * Learn the basic structure of an HTML document.
+     * Familiarize yourself with CSS selectors for styling HTML elements.
+     * Create a CSS stylesheet to apply consistent styles across  web pages.
+     * Responsive web and understanding Media Queries.
+2. Git and GitHub:
+     * Understand the importance of version control systems (VCS) like Git.
+     * Explore GitHub, which provides hosting for your repositories and useful tools for managing code.
+     * Create different versions of code using Git branches.
+3. Git Commits:
+   * Commit changes frequently to track progress.
+   * Use of descriptive commit messages to explain each change.    
 
 # Credits
 ## Code
