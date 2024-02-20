@@ -29,7 +29,8 @@ It provides a memorable blend of artisan cocktails, live jazz tunes, and a welco
       5. [Images and Video](#images-and-video)
 3. [Deployment](#deployment)
 4. [Features](#features)
-   1. [Features Possible To Implement](#features-possible-to-implement)
+   1. [Finished Product](#finished-product)
+   2. [Features Possible To Implement](#features-possible-to-implement)
 6. [Testing](#testing)
    1. [Responsive Web Design](#responsive-web-design)
    2. [Manual Testing](#manual-testing)
@@ -99,12 +100,13 @@ Raleway is an elegant sans-serif typeface family. Initially designed by Matt McI
 ### Images and Video
 Images that display the fresh ingredients used in cocktails, along with pictures of performers and background, have been carefully chosen for the website to align with its color scheme and content.
 
-# Deployment
+# Deployment 
+More information can be found here [GitHub Docs](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
 * The site was deployed to GitHub pages. The steps to deploy are as follows:
-   * In GitHub repository, navigate to the settings tab.
-   * From side menu select pages tab.
-   * Once there select source branch:main, select folder/(root).
-   * Click save, the page provided the link to the completed website.     
+   1. In GitHub repository, navigate to the settings tab.
+   2. From side menu select pages tab.
+   3. Once there select source branch:main, select folder/(root).
+   4. Click save, the page provided the link to the completed website.     
 * The live link can be found here  [The Bitter End](https://aleksandrdenis.github.io/PP1-The-Bitter-End/index.html)
 
 
@@ -168,6 +170,18 @@ https://github.com/AleksandrDenis/PP1-The-Bitter-End/assets/94542773/32602818-66
 ![footer](/assets/readme-images/footer.png)
 
 
+## Finished Product
+
+Page | Descktop | Mobile 
+--- | --- | --- 
+Main | ![Main page](/assets/readme-images/main-full.jpeg) | ![Main page mobile](/assets/readme-images/main-mob.jpeg)
+Cocktails | ![Menu descktop](/assets/readme-images/menu-full.jpeg) | ![menu mobile](/assets/readme-images/menu-mob.jpeg)
+Events | ![events descktop](/assets/readme-images/event-full.jpeg) | ![events mobile](/assets/readme-images/event-mob.jpeg)
+About | ![about descktop](/assets/readme-images/about-full.jpeg) | ![about mobile](/assets/readme-images/about-mob.jpeg)
+Contact | ![contact descktop](/assets/readme-images/contact-full.jpeg) | ![contact mobile](/assets/readme-images/cont-mob.jpeg)
+Confirmation | ![confirmation descktop](/assets/readme-images/conf-full.jpeg) | ![confirmation mobile](/assets/readme-images/con-mob.jpeg)
+
+[Back To Top](#the-bitter-end)
 
 ## Features Possible To Implement
  * Photo Gallery to:
