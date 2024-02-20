@@ -29,7 +29,7 @@ It provides a memorable blend of artisan cocktails, live jazz tunes, and a welco
       5. [Images and Video](#images-and-video)
 3. [Deployment](#deployment)
 4. [Features](#features)
-   1. [Features Left to Implement](#features-left-to-implement)
+   1. [Features Possible To Implement](#features-possible-to-implement)
 6. [Testing](#testing)
    1. [Responsive Web Design](#responsive-web-design)
    2. [Manual Testing](#manual-testing)
@@ -109,7 +109,7 @@ Images that display the fresh ingredients used in cocktails, along with pictures
 
 
 # Features
-Each page is designed to be user-friendly and visually appealing, reflecting the bar’s unique charm and sophistication. The website’s overall structure is intuitive and easy to navigate, ensuring a positive user experience.
+**Each page is designed to be user-friendly and visually appealing, reflecting the bar’s unique charm and sophistication. The website’s overall structure is intuitive and easy to navigate, ensuring a positive user experience.**
 * Header and Navigation
   * Header contains the website’s logo sets the tone for the website and provides link to home page.
   * Navigation: This is a crucial part of the website that guides users to the different pages. It includes:
@@ -153,29 +153,29 @@ https://github.com/AleksandrDenis/PP1-The-Bitter-End/assets/94542773/32602818-66
  ![about page](/assets/readme-images/about-page.png)
 
 * Contact Page
-  * This page include a contact form for visitors to send inquiries or feedback directly through the website.
+  * This page includes a contact form for visitors to send inquiries or feedback directly through the website.
 
  ![contact page](/assets/readme-images/contact-page.png)
  
 * Confirmation Page
-  * After a visitor submits a form on the Contact page, they’re taken to this page. It confirms that their message has been received and provides information about what to expect next and link to return to home page.
+  * After a visitor submits a form on the Contact page, they are taken to this page. It confirms that their message has been received and provides information about what to expect next and link to return to home page.
  
 ![confirmation page](/assets/readme-images/confirmation-page.png)
 
 * Footer
-  * Provides contact information for the bar, including its address links to google maps, phone number, and email and link to social media.
+  * Provides contact information for the bar, including its address links to google maps, phone number, email, link to social media and provides information about opening times.
  
 ![footer](/assets/readme-images/footer.png)
 
 
 
-## Features Left to Implement
- * Photo Galler to:
-   * Enhancing the visual appeal.
+## Features Possible To Implement
+ * Photo Gallery to:
+   * Enhanc the visual appeal.
    * Showcase services.
  * Review Section to:
-   * Gathering feedback and insights.
-   * Building trust and credibility.  
+   * Gather feedback and insights.
+   * Build trust and credibility.  
 
 # Testing
 ## Responsive Web Design
@@ -201,21 +201,21 @@ https://github.com/AleksandrDenis/PP1-The-Bitter-End/assets/94542773/32602818-66
      * Visual appearance and design: No critical issues were identified.
 
      **Common Features Testing**
-   * Heder
+   * Header
      * The logo is visible and clickable, and it redirects to the home page.
      * The navigation menu has the correct links and labels, and it expands and collapses as expected.
      * The header is responsive and adapts to different screen sizes and orientations.
        
    * Navigation Links
      * The links are visible and clickable, and they redirect to the correct pages.
-     * The links have the appropriate text, they match the design and style of the website.
+     * The links have the appropriate text they match the design and style of the website.
      * The links are responsive and adapt to different screen sizes and orientations.
      * The links have the proper active state, they indicate the current page.
        
    * Footer
      * The email is visible and clickable, and it opens the default email client with the correct recipient address.
      * The telephone is visible and clickable, and it initiates a call with the correct number.
-     * The social media icon is visible and clickable and open the corresponding social media platform in a new tab.
+     * The social media icon is visible, clickable and open the corresponding social media platform in a new tab.
      * The location icon is visible and interactive and open the google maps in a new tab.
      * The footer is responsive and adapts to different screen sizes and orientations.
        
@@ -288,8 +288,6 @@ https://github.com/AleksandrDenis/PP1-The-Bitter-End/assets/94542773/32602818-66
    * Used for structure.
 * [CSS](https://en.wikipedia.org/wiki/CSS)
    * Used for styling.
-* [JS](https://en.wikipedia.org/wiki/JavaScript)
-  * Used to create bar menu for mobile devices.
 *  [Vs Code and Codespaces](https://en.wikipedia.org/wiki/Visual_Studio_Code)
   * Used as code editor.
 * [MS Word](https://en.wikipedia.org/wiki/Microsoft_Word)
