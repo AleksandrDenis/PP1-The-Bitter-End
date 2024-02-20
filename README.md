@@ -193,22 +193,53 @@ Confirmation | ![confirmation descktop](/assets/readme-images/conf-full.jpeg) | 
 
 # Testing
 ## Responsive Web Design
-* [Responsive Design Checker](https://www.responsivedesignchecker.com/) was used to test the responsiveness of the website on various screen sizes and devices.
+* [Responsive Design Checker](https://www.responsivedesignchecker.com/) was used to test the responsiveness of the website on various screen sizes and devices:
+  
+Screen Size | Device  
+--- | --- 
+  1920x1200 | Desktop
+  1920x1080 | Desktop
+  1680x1050 | Desktop
+  1600x900  | Desktop
+  1440x900 | Desktop
+  1366x768 | Notebook
+  1024x800 | Notebook
+  1024x600 | Notebook
+  1366x1024 | Apple iPad Pro
+768x1024 | Amazon Kindle Fire
+768x1024 | Asus Eee 1000
+600x960 | Nexus 7
+1024x768 | Nexus 9
+800x12 | Samsung Galaxy Tab 10
+320x480 | Apple iPhone 3/4/4s
+320x568 | Apple iPhone 5/5s
+375x667 | Apple iPhone 6/6s/7
+414x736 | Apple iPhone 6s Plus / 7 Plus
+360x640 | Samsung Galaxy S5/S6/S7
+360x640 | Sony Xperia Z2/Z3
+411x731 | Google Pixel
+384x640 | Nexus 4
+411x731 | Nexus 5
+411x731 | Nexus 6
+
 * [Chrome DevTools](https://developer.chrome.com/docs/devtools/) was used to test responsiveness in different screen sizes during the development process.
 
 ## Manual Testing
 **Cross-Browser Compatibility Testing**
-   * Edge
+   * Edge ![edge](https://github.com/AleksandrDenis/PP1-The-Bitter-End/assets/94542773/365d1bc0-7c79-4c6f-9ac6-72a290c54b55)
+
      * Layout and responsiveness: No critical issues were identified.
      * Functionality and performance: No critical issues were identified.
      * Accessibility and usability: No critical issues were identified.
      * Visual appearance and design: No critical issues were identified. 
-   * Firefox
+   * Firefox ![firefox](https://github.com/AleksandrDenis/PP1-The-Bitter-End/assets/94542773/ee8437d7-8714-4da2-8c23-a96c5895b166)
+
      * Layout and responsiveness: No critical issues were identified.
      * Functionality and performance: No critical issues were identified.
      * Accessibility and usability: No critical issues were identified.
      * Visual appearance and design: No critical issues were identified.
-   * Chrome
+   * Chrome ![chrome](https://github.com/AleksandrDenis/PP1-The-Bitter-End/assets/94542773/335b403d-473a-427b-b729-b08a6ef7610f)
+
      * Layout and responsiveness: No critical issues were identified.
      * Functionality and performance: No critical issues were identified.
      * Accessibility and usability: No critical issues were identified.
