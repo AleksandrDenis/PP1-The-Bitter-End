@@ -245,6 +245,9 @@ https://github.com/AleksandrDenis/PP1-The-Bitter-End/assets/94542773/32602818-66
   * When passing the official [W3C](https://validator.w3.org/) validator following errors logged:
     * Element h1 not allowed as child of element <a>. Fixed by inserting a href attribute inside h1 element.
     * Duplicated Id found. Fixed by renaming id.
+      
+  ![Html checker](/assets/readme-images/html-checker.png)
+      
  * CSS
    * No errors were found when passing through the official [Jigsaw](https://jigsaw.w3.org/css-validator/) validator.
    <p>
