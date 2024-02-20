@@ -226,8 +226,7 @@ footer a {
 }
 
 /* Style for drink-menu page */
-#menu-container h2 {
-    text-decoration-line: underline;
+#menu-container h2 {    
     font-size: 200%;
 }
 
@@ -248,10 +247,6 @@ footer a {
 #about-image {
     width: 100%;
     height: 200px;
-}
-
-.about-heading {
-    text-decoration-line: underline;
 }
 
 /* Contact.html page */
