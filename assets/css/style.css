@@ -518,6 +518,21 @@ h4 {
 #contact-container {
     font-size: 150%;
 }
+
+#drink-container,
+#event-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.drink-text,
+    .event-text {
+        width: 50%;
+        padding: 0 2rem;
+    }
+
 }
 
 /* For Extra Large Devices (Large Laptops/Desktops) 1200px and up */
@@ -526,17 +541,10 @@ h4 {
     /* Drinks and event section*/
     #drink-container,
     #event-container {
-        display: flex;
-        flex-direction: row;
-        justify-content: space-evenly;
-        align-items: center;
+        flex-wrap: nowrap;
     }
 
-    .drink-text,
-    .event-text {
-        width: 50%;
-        padding: 0 2rem;
-    }
+    
 
     /*Footer */
     /* Display footer links in a row */
