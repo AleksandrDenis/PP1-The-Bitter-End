@@ -261,7 +261,7 @@ footer a {
     background-size: cover;
     background-position: 75%;
     padding: 10px;
-    flex-grow: 1;
+    margin-top: 10px;
 }
 
 form {
@@ -312,7 +312,6 @@ textarea {
     background-size: cover;
     padding: 10px;
     flex-grow: 1;
-
 }
 
 #confirmation-message {
