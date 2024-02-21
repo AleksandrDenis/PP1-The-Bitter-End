@@ -32,9 +32,10 @@ It provides a memorable blend of artisan cocktails, live jazz tunes, and a welco
    1. [Finished Product](#finished-product)
    2. [Features Possible To Implement](#features-possible-to-implement)
 6. [Testing](#testing)
-   1. [Responsive Web Design](#responsive-web-design)
-   2. [Manual Testing](#manual-testing)
-   3. [Validator Testing](#validator-testing)
+   1. [Testing User Stories](#testing-user-stories)
+   2. [Responsive Web Design](#responsive-web-design)
+   3. [Manual Testing](#manual-testing)
+   4. [Validator Testing](#validator-testing)
 8. [Languages and Programs](#languages-and-programs)
 9. [Learning Outcomes](#learning-outcomes)
 10. [Credits](#credits)
@@ -43,11 +44,10 @@ It provides a memorable blend of artisan cocktails, live jazz tunes, and a welco
     3. [Media](#media)
 11. [Acknowledgements](#acknowledgements)
 
-
-
 # UX
 ## User Stories:
 * New User
+  * As a new user, I want to easily understand the main purpose of the site and learn more about the place.
   * As a new user, I want to view the cocktail menu so that I can decide what to order.
   * As a new user, I want to see the schedule of live jazz performances so that I can plan my visit.
   * As a new user, I want to book tickets for performance.
@@ -56,7 +56,6 @@ It provides a memorable blend of artisan cocktails, live jazz tunes, and a welco
 * Returning User
   * As a returning user, I want to check for upcoming jazz performances so that I can attend my favourite shows.
   * As a returning user, I want to see any changes in the cocktail menu so that I can try new drinks.
-
 * Owner goal
   * As an owner, I want to update the cocktail menu so that customers can see our latest offerings.
   * As an owner, I want to promote upcoming jazz performances so that we can attract more customers.
@@ -193,6 +192,31 @@ Confirmation | ![confirmation descktop](/assets/readme-images/conf-full.jpeg) | 
    * Build trust and credibility.  
 
 # Testing
+## Testing User Stories
+   * As a new user, I want to easily understand the main purpose of the site and learn more about the place.
+       * Upon entering the site, users are greeted with easily readable navigation bar to go to the page of their choice.
+      * The landing page features a hero video that captures the essence of the bar’s atmosphere.
+     *  Overlay text sets the mood and succinctly communicates the website’s purpose.     
+  * As a new user, I want to view the cocktail menu so that I can decide what to order.
+       * Signature Cocktail Section show best drinks available.
+     * Cocktail page provides a detailed list of the cocktails available, complete with descriptions and prices.
+  * As a new user, I want to see the schedule of live jazz performances so that I can plan my visit.
+      * Live this month section is a vibrant showcase of upcoming events.
+      * Events page give detail information about events.
+  * As a new user, I want to book tickets for performance.
+    * Events page has link to book tickets directly from Eventsbrite site.
+  * As a new user, I want to know about bar.
+    * About page offers information about the bar’s history, mission.
+  * As a new user, I want to contact bar and book a table so that I can ensure I have a spot on a busy night.
+    * Contact page includes a contact form for visitors to send inquiries or feedback directly through the website.
+    * Footer provides more information how user can contact bar.
+* As a returning user, I want to check for upcoming jazz performances so that I can attend my favourite shows.
+   * Live this month section provide user with new upcoming shows.
+   * Event page has up to date information of upcoming events.
+* As a returning user, I want to see any changes in the cocktail menu so that I can try new drinks.
+  * Signature Cocktail Section show if new drinks have been added to menu.
+  * Cocktails page has all drinks with prices included.
+ 
 ## Responsive Web Design
 * [Responsive Design Checker](https://www.responsivedesignchecker.com/) was used to test the responsiveness of the website on various screen sizes and devices:
   
