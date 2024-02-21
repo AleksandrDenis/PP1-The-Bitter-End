@@ -125,6 +125,7 @@ More information can be found here [GitHub Docs](https://docs.github.com/en/page
  
 * Landing Page
   * The landing page features a hero video that captures the essence of the bar’s atmosphere.
+  * After playing video stop and don't loop its a design feature.
   * Overlay text sets the mood and succinctly communicates the website’s purpose.
     
 https://github.com/AleksandrDenis/PP1-The-Bitter-End/assets/94542773/32602818-6672-49cb-a603-63f85aa34b37
