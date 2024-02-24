@@ -250,6 +250,8 @@ Screen Size | Device
 
 * [Chrome DevTools](https://developer.chrome.com/docs/devtools/) was used to test responsiveness in different screen sizes during the development process.
 
+  [Back To Top](#the-bitter-end)
+
 ## Manual Testing
 **Cross-Browser Compatibility Testing**
    * Edge ![edge](https://github.com/AleksandrDenis/PP1-The-Bitter-End/assets/94542773/365d1bc0-7c79-4c6f-9ac6-72a290c54b55)
@@ -376,8 +378,8 @@ Screen Size | Device
 1. Understanding HTML and CSS:
       * Learn the basic structure of an HTML document.
      * Familiarize yourself with CSS selectors for styling HTML elements.
-     * Create a CSS stylesheet to apply consistent styles across  web pages.
-     * Responsive web and understanding Media Queries.
+     * Create a CSS stylesheet to apply consistent styles across web pages.
+     * Responsive web and understanding of Media Queries.
 2. Git and GitHub:
      * Understand the importance of version control systems (VCS) like Git.
      * Explore GitHub, which provides hosting for your repositories and useful tools for managing code.
@@ -388,12 +390,18 @@ Screen Size | Device
 
 # Credits
 ## Code
+* [Mmdn](https://developer.mozilla.org/en-US/) and [W3Schools](https://www.w3schools.com/) were consulted on a regular basis to  understand the code being implement.
+* To create hamburger menu and position form code was used from Ci project "Love running".
 
 ## Content
+* All content was written by the developer.
 
 ## Media
+* All Images and videos from [Pexels](https://www.pexels.com/)
 
 # Acknowledgements
+* Code Institute and its amazing Slack community for their support and providing me with the necessary knowledge to complete this project.
+* My tutor, Marcel, for his invaluable feedback and guidance.
 
 [Back To Top](#the-bitter-end)
 
