@@ -148,7 +148,7 @@ https://github.com/AleksandrDenis/PP1-The-Bitter-End/assets/94542773/32602818-66
 * Events Page
   * Here, visitors can find a schedule of upcoming jazz performances and special events. Each event listing includes details such as the date, time, and links to book ticket from [eventbrite](https://www.eventbrite.ie/)
 
-![event page](/assets/readme-images/events-page.png)
+![event page](/assets/readme-images/event-page.png)
  
 * About Page
   * This page offers information about the bar’s history, mission. It also includes photo to give visitors a feel for the bar’s ambiance.
