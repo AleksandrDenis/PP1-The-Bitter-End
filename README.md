@@ -36,6 +36,7 @@ It provides a memorable blend of artisan cocktails, live jazz tunes, and a welco
    2. [Responsive Web Design](#responsive-web-design)
    3. [Manual Testing](#manual-testing)
    4. [Validator Testing](#validator-testing)
+   5. [Bugs](#bugs)
 8. [Languages and Programs](#languages-and-programs)
 9. [Learning Outcomes](#learning-outcomes)
 10. [Credits](#credits)
@@ -358,6 +359,9 @@ Screen Size | Device
   **Confirmation Page**
      
   ![responsive image](/assets/readme-images/lighthouse-confirmation.png)
+
+  ## Bugs
+  * When testing, I noticed that the logo was stretching across the entire header, which prevented the hamburger menu from being clicked. By adjusting the width of the logo, I fixed the bug. No other known bugs were detected.
 
 # Languages and Programs
 * [HTML5](https://en.wikipedia.org/wiki/HTML5)
