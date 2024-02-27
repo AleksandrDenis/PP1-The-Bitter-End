@@ -65,7 +65,7 @@ It provides a memorable blend of artisan cocktails, live jazz tunes, and a welco
 
 ### Structure
 
-![site map](/assets/readme-images/Wireframe-Site-Map.png)
+![site map](/assets/readme-images/wireframe-Site-Map.png)
 
 This structure guides visitors through a journey: from getting their first impression on the Main Page, exploring the Drink Menu, learning about Events, reaching out via the Contact Us page, and finally receiving confirmation that their message has been sent. This ensures a smooth and engaging user experience.
 
@@ -73,12 +73,12 @@ This structure guides visitors through a journey: from getting their first impre
 * Mobile
   * Visual blueprint for a website’s structure when viewed on a mobile device.
     
- ![wireframe mobile](assets/readme-images/Wireframe-Mobile.png)
+ ![wireframe mobile](assets/readme-images/wireframe-Mobile.png)
 
  * Desktop
    * Visual blueprint for a website’s structure when viewed on a desktop and larger device.
 
-  ![wireframe desktop](assets/readme-images/Wireframe-Descktop.png) 
+  ![wireframe desktop](assets/readme-images/wireframe-Descktop.png) 
   
 ### Color Scheme
 The chosen color palette for the website design is both sophisticated and calming, which aligns well with the ambiance of a jazz and cocktail bar.
